@@ -48,3 +48,6 @@ entry: {
 },
 ```
 [оригинальная статья](https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process)
+
+
+TODO написать про аст
