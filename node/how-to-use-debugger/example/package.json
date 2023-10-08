@@ -1,0 +1,17 @@
+{
+  "name": "how-to-use-debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node --inspect build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "~20.8.0",
+    "typescript": "~5.1.3"
+  },
+  "type": "module"
+}
